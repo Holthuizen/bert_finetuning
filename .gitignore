@@ -2,3 +2,4 @@ finetuned_models/
 .DS_store
 movie_model/ 
 ./
+*.ipynb
