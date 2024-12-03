@@ -3,3 +3,4 @@ finetuned_models/
 movie_model/ 
 ./
 *.py
+.venv/
