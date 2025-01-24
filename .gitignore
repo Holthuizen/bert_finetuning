@@ -6,3 +6,4 @@ movie_model/
 .vent/
 *.txt 
 *.parquet
+*.json
